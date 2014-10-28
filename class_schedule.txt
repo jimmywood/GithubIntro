@@ -18,9 +18,13 @@ Team member 2
 
 
 
-Team member 3
-
-
+Team member 3: Jimmy Wood
+Per 1: Statistics, Rm 107
+Per 2: AP Comp Sci, Rm B12
+Per 3: Physiology, Rm 313
+Per 4: AP Gov, Rm P
+Per 5: ERWC, Rm K
+Per 6: Art of Film, Rm 114
 
 Team member 4: Steven Vu
 Per 1: AP Calculus BC, Rm B6
